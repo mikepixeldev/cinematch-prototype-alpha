@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "titanic_1997_original_film_art_dfbd6b72-6ccb-422c-b34f-82c81d2c9d86_1200x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
