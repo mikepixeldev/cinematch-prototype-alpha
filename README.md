@@ -11,6 +11,11 @@ Le but de Cinématch est d’aider les utilisateurs à décider facilement quels
 - **Détails du film** : Accédez à des informations détaillées sur chaque film en tapant dessus, incluant les acteurs, le réalisateur, et la plateforme où le film est disponible.
 - **Liste de souhaits** : Consultez votre liste de films « likés » pour organiser votre prochaine séance cinéma.
 
+<div align="center">
+  <img src="images/interface-app.png" width="300" alt="Interface de Cinématch">
+</div>
+
+
 ## Technologies
 - **Langage de programmation** : Swift 5
 - **Framework d’interface utilisateur** : SwiftUI
